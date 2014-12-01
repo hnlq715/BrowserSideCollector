@@ -13,7 +13,7 @@ Nginx
 -----
 ####sub_filter
 
-This module could replace *</head>* into *</head><script>...</script>*.
+This module could replace `</head>` into `</head><script>...</script>`.
 
 ####gunzip_filter
 
