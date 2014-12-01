@@ -5,9 +5,9 @@ A project which collects data from web browser using Nginx and javascript.
 
 Table of Contents
 -----------------
-- Nginx(#nginx)
-- Javascript(#javascript)
-- Backend(#backend)
+- [Nginx](#nginx)
+- [Javascript](#javascript)
+- [Backend](#backend)
 
 Nginx
 -----
